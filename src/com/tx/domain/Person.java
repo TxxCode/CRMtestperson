@@ -5,4 +5,5 @@ public class Person {
     public String adress;
     aaaa
     public String were;
+    public String aaa;
 }
